@@ -1,0 +1,26 @@
+﻿  #leftCol {
+    position: fixed;
+    width: 200px;
+    background-color: #DDD; 
+    font-size: 15px;
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#content100 {
+    position: relative;            
+    margin-left: 200px;
+}
+/*與內建的bookstrap有重複，有衝突請檢查*/
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
